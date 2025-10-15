@@ -3,8 +3,7 @@ layout: page
 title: Developer Guide
 ---
 
-* Table of Contents
-{:toc}
+- Table of Contents {:toc}
 
 ---
 
